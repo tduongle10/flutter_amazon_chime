@@ -1,3 +1,7 @@
+## 0.1.1
+
+* Bump `logger` constraint to `^2.0.0` to stay on the latest upstream version. No public API changes.
+
 ## 0.1.0
 
 * Initial public release.
