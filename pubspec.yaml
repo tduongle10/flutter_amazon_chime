@@ -1,6 +1,6 @@
 name: flutter_amazon_chime
 description: "Flutter plugin for the Amazon Chime SDK, providing audio/video conferencing on iOS and Android."
-version: 0.1.1
+version: 0.1.2
 homepage: https://github.com/tduongle10/flutter_amazon_chime
 repository: https://github.com/tduongle10/flutter_amazon_chime
 issue_tracker: https://github.com/tduongle10/flutter_amazon_chime/issues
@@ -12,16 +12,16 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  provider: ^6.0.3
-  logger: ^2.0.0
-  plugin_platform_interface: ^2.0.2
-  meta: ^1.10.0
+  provider: ^6.1.5+1
+  logger: ^2.7.0
+  plugin_platform_interface: ^2.1.8
+  meta: ^1.16.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
-  pigeon: ^26.3.3
+  pigeon: ^26.3.4
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

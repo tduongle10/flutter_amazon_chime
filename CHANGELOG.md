@@ -1,3 +1,7 @@
+## 0.1.2
+
+* Tighten dependency lower bounds so the package actually compiles against its declared minimums. Previously `logger: ^2.0.0` allowed `2.0.0`, which did not contain `DateTimeFormat`. No public API changes.
+
 ## 0.1.1
 
 * Bump `logger` constraint to `^2.0.0` to stay on the latest upstream version. No public API changes.
