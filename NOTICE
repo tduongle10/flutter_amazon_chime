@@ -1,0 +1,14 @@
+flutter_amazon_chime
+Copyright (c) 2025 Duong Le
+
+This product includes code derived from the Amazon Chime SDK sample
+applications, originally licensed under the MIT-0 License:
+
+  https://github.com/aws/amazon-chime-sdk-android
+  https://github.com/aws/amazon-chime-sdk-ios
+
+  Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+  SPDX-License-Identifier: MIT-0
+
+This product depends on the Amazon Chime SDK, distributed under the
+Apache License 2.0 by Amazon Web Services.
